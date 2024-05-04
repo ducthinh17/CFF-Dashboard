@@ -19,7 +19,8 @@ and customer analytics.
   - Ensured healthy competition by preventing overlap in product sales.
   - Included metrics such as last sale date, working days per month, daily and monthly sales targets, average revenue, forecasting, profit, target profit, and percentage likelihood of meeting targets.
 
-![BI Sale Performance Report](link_to_image_here)  <!-- Replace 'link_to_image_here' with the actual image URL -->
+![BI Sale Performance Report](https://github.com/ducthinh17/CFF-Dashboard/blob/main/Image_BI/z4832081864858_fc31f699a04cc993d145f325241ee824%20(1).jpg)
+![BI Sale Performance Report MIX](https://github.com/ducthinh17/CFF-Dashboard/blob/main/Image_BI/z4832081899450_df00c4d9138ab8144f6f2406756f0a61%20(1).jpg)
 
 ### 2. Sale Performance V2 Report
 - **Purpose:** Annual business overview, comparison with previous years.
@@ -30,7 +31,7 @@ and customer analytics.
   - Tracked revenue across various sales channels including Classic Deli(online), Food Service (traditional B2B sales), and Retail (supermarkets like Metro, E-mart,...).
   - Facilitated understanding of overall business and management strategies.
 
-![BI Sale Performance v2 Report](link_to_image_here)
+![BI Sale Performance v2 Report](https://github.com/ducthinh17/CFF-Dashboard/blob/main/Image_BI/z4832081881253_68ae4f887bb24709827455fcacc7bad2%20(1).jpg)
 
 ### 3. Product Analyze and Customer Analyze Reports
 - **Purpose:** Analysis of favorite products and customer demographics.
@@ -38,8 +39,8 @@ and customer analytics.
   - Helps in planning marketing strategies for new and returning customers.
   - Assists in inventory management based on product shelf life.
 
-![BI Beverage Report](link_to_image_here)  
-![BI Restaurants Report](link_to_image_here)
+![BI Beverage Report](https://github.com/ducthinh17/CFF-Dashboard/blob/main/Image_BI/z4776944730085_a2e90abd828e8d69bd3b8fe226900ac5%20(1).jpg)  
+![BI Restaurants Report]([link_to_image_here](https://github.com/ducthinh17/CFF-Dashboard/blob/main/Image_BI/z4776944711432_0051f5aed5d45da9243c53ebc8aaeac4.jpg))
 
 ## Tools and Techniques Used
 - **Power BI:** Main tool for creating interactive reports.
