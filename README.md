@@ -1,7 +1,11 @@
 # Power BI Reporting for Classic Fine Foods
 
 ## Overview
-During my internship at Classic Fine Foods, I developed multiple Power BI reports aimed at analyzing the company's sales performance. This project provided monthly and annual insights into sales across five branches and detailed analytics for products and customers.
+During my internship at Classic Fine Foods (CFF), I was tasked with developing
+several Power BI reports to provide comprehensive insights into the company's sales
+performance. The primary focus was on creating reports for monthly and annual sales
+analysis across five branches (PQC, NHA, HCM, DAN, HAN), along with product
+and customer analytics.
 
 Student's Name: Pham Le Duc Thinh  
 Student’s ID: ITDSIU20085  
