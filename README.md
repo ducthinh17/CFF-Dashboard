@@ -66,11 +66,20 @@ and customer analytics.
   <em>BI Restaurants Report</em>
 </p>
 
+
+#### Data Relationship Management
+##### Ensured accuracy in report operations through fine-tuned data relationships.
+<p align="center">
+  <img src="https://github.com/ducthinh17/CFF-Dashboard/blob/main/Image_BI/z4812327365966_e9f96e8d91a9cdea782513356ed39a5e%20(1).jpg">
+  <br>
+  <em>Model relationships between tables</em>
+</p>
+
 ### Tools and Techniques Used
 - **Power BI:** Main tool for creating interactive reports.
 - **Excel & Power Query:** Used for basic data processing and data extraction.
 - **Python:** Handled large data sets for calculations before importing into Power BI.
-- **Data Relationship Management:** Ensured accuracy in report operations through fine-tuned data relationships.
+
 
 ### Challenges and Learning
 
