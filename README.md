@@ -7,6 +7,8 @@ performance. The primary focus was on creating reports for monthly and annual sa
 analysis across five branches (PQC, NHA, HCM, DAN, HAN), along with product
 and customer analytics.
 
+![Operating Model of Power BI reports](https://github.com/ducthinh17/CFF-Dashboard/blob/main/Image_BI/%E1%BA%A2nh%20m%C3%A0n%20h%C3%ACnh%202024-05-04%20l%C3%BAc%2016.58.06.png)
+
 ## Key Reports Developed
 
 ### 1. Sale Performance Report
