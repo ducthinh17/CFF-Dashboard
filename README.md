@@ -40,7 +40,7 @@ and customer analytics.
   - Assists in inventory management based on product shelf life.
 
 ![BI Beverage Report](https://github.com/ducthinh17/CFF-Dashboard/blob/main/Image_BI/z4776944730085_a2e90abd828e8d69bd3b8fe226900ac5%20(1).jpg)  
-![BI Restaurants Report]([link_to_image_here](https://github.com/ducthinh17/CFF-Dashboard/blob/main/Image_BI/z4776944711432_0051f5aed5d45da9243c53ebc8aaeac4.jpg)
+![BI Restaurants Report](https://github.com/ducthinh17/CFF-Dashboard/blob/main/Image_BI/z4776944711432_0051f5aed5d45da9243c53ebc8aaeac4.jpg)
 
 ## Tools and Techniques Used
 - **Power BI:** Main tool for creating interactive reports.
