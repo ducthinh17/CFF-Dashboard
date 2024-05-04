@@ -1,5 +1,5 @@
 # Power BI Reporting for Classic Fine Foods
-
+## Author: Pham Le Duc Thinh  
 ## Overview
 During my internship at Classic Fine Foods (CFF), I was tasked with developing
 several Power BI reports to provide comprehensive insights into the company's sales
@@ -7,17 +7,15 @@ performance. The primary focus was on creating reports for monthly and annual sa
 analysis across five branches (PQC, NHA, HCM, DAN, HAN), along with product
 and customer analytics.
 
-Student's Name: Pham Le Duc Thinh  
-Student’s ID: ITDSIU20085  
-
 ## Key Reports Developed
 
 ### 1. Sale Performance Report
 - **Purpose:** Monthly overview of business performance per branch.
 - **Features:**
-  - Tracks sales staff progress, including managers and representatives.
-  - Managers handle specific product categories to ensure non-overlapping sales efforts.
-  - Includes metrics such as last sale date, daily and monthly targets, average revenue, forecasting, and profit metrics.
+  - Tracked progress of sales staff including Sales Managers and Sales Representatives.
+  - Each Manager was responsible for a specific product category (e.g.,beverages, dry foods, meats).
+  - Ensured healthy competition by preventing overlap in product sales.
+  - Included metrics such as last sale date, working days per month, daily and monthly sales targets, average revenue, forecasting, profit, target profit, and percentage likelihood of meeting targets.
 
 ![BI Sale Performance Report](link_to_image_here)  <!-- Replace 'link_to_image_here' with the actual image URL -->
 
@@ -25,7 +23,10 @@ Student’s ID: ITDSIU20085
 - **Purpose:** Annual business overview, comparison with previous years.
 - **Features:**
   - Provides a comprehensive view of business growth and potential areas of improvement.
-  - Tracks development across branches and revenue from various sales channels.
+  - Offered a comprehensive view of business growth and identified areas for improvement.
+  - Enabled easy monitoring of each branch's development.
+  - Tracked revenue across various sales channels including Classic Deli(online), Food Service (traditional B2B sales), and Retail (supermarkets like Metro, E-mart,...).
+  - Facilitated understanding of overall business and management strategies.
 
 ![BI Sale Performance v2 Report](link_to_image_here)
 
