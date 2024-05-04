@@ -1,4 +1,4 @@
-## Power BI Reporting for Classic Fine Foods                                     Author: Pham Le Duc Thinh  
+## Power BI Reporting for Classic Fine Foods                                   by  Author: Pham Le Duc Thinh  
 ### Overview
 During my internship at Classic Fine Foods (CFF), I was tasked with developing
 several Power BI reports to provide comprehensive insights into the company's sales
